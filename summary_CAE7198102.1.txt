@@ -1,0 +1,22 @@
+==============================================
+        PROTEIN PROPERTY ANALYSIS REPORT      
+==============================================
+
+Protein ID: CAE7198102.1
+Sequence Length: 455 amino acids
+
+----- Computed Properties -----
+Molecular Weight: 50255.81 Da
+Isoelectric Point (pI): 6.78
+Aromaticity: 0.077
+Instability Index: 47.93
+GRAVY Score: -0.229
+
+----- Top 5 Most Abundant Amino Acids -----
+L: 45
+A: 44
+G: 40
+R: 39
+E: 38
+
+All data files and plots are saved in the 'results' folder on Desktop.
