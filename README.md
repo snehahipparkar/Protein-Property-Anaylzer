@@ -1,9 +1,7 @@
  🧬 Protein Property Analyzer (Interactive Version)
 
 **Author:** Sneha Hipparkar  
-A simple and interactive **Bioinformatics mini-project** written in Python that calculates the **physicochemical properties** of a protein sequence.  
-Users can either provide a **FASTA file** or directly enter a **protein accession number** (e.g., `P0DTC2`, `XP_019944888.2`) to fetch data from **NCBI**.  
-All results are automatically saved and opened from a **results** folder on your Desktop.
+
 #  Features
 - Accepts user input — either **accession number** or **FASTA file path**  
 - Fetches protein sequence automatically from **NCBI**  
